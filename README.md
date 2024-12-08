@@ -1,10 +1,11 @@
 <h1 align="center" >Web-developer</h1>
 <h3 style="margin-bottom: 0px">Daniil Dwfwby</h3>
-<ul>
-  <li>👶 Born in 2003</li>
-  <li>💻 Been sitting at the computer since I was 3 years old</li>
-  <li>🎮 Until the age of 16, he was an avid computer game player, 📕 then he began to study programming languages</li>
-</ul>
+
+```txt
+👶 Born in 2003.
+💻 Been sitting at the computer since I was 3 years old.
+🎮 Until the age of 16, he was an avid computer game player, 📕 then he began to study programming languages.
+```
 
 <h4>🛠️ Stack</h4>
 <ul>
@@ -20,16 +21,15 @@
 
 <h4>🧰 Instrumental</h4>
 <ul>
-  <li>Figma</li>
-  <li>Adobe Photoshop</li>
-  <li>Adobe After Effects</li>
-  <li>Visual Studio Code</li>
-  <li>Google Sheets</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Figma-1-logo.png" width="18"> Figma</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Adobe_Photoshop_CC_icon.svg.png" width="18"> Adobe Photoshop</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/images (1).png" width="18"> Adobe After Effects</li>
+  <li><img valign="middle" src="Visual_Studio_Code_1.35_icon.svg.png" width="18"> Visual Studio Code</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/images.jpg" width="18"> Google Sheets</li>
 </ul>
 
-### My links:
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="18"> Mail: [czacind@bk.ru](mailto:czacind@bk.ru)
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Telegram_2019_Logo.svg.png" width="18"> Telegram: [@dwfwby](https://t.me/dwfwby)
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.webp" width="18"> Youtube: [@dwfwby](https://www.youtube.com/@dwfwby)
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/logo-instagram-icons-instgagram_1367689-33.avif" width="18"> Instagram: [@dwfwby](https://instagram.com/dwfwby)
+### ⛬ Links
 
+| <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="18"> Mail | <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Telegram_2019_Logo.svg.png" width="18"> Telegram | <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.webp" width="18"> Youtube | <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/logo-instagram-icons-instgagram_1367689-33.avif" width="18"> Instagram |
+| :---: | :---: | :---: | :---: |
+| [czacind@bk.ru](mailto:czacind@bk.ru) | [@dwfwby](https://t.me/dwfwby) | [@dwfwby](https://www.youtube.com/@dwfwby) | [@dwfwby](https://instagram.com/dwfwby)|
