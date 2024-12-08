@@ -3,10 +3,12 @@
 I was born in 2003. I've been sitting at the computer since I was 3 years old. Until the age of 16, he was an avid computer game player, then he began to study programming languages.
 
 <h4>Stack</h4>
-- Node.js
-- Next.js
-- HTML / CSS
-- PostgreSQL
+<ul>
+  <li>Node.js</li>
+  <li>Next</li>
+  <li>HTML / CSS</li>
+  <li>PostgreSQL</li>
+</ul>
 
 ### Contact with me:
 [<img  src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="40">](mailto:czacind@bk.ru)
