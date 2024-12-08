@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="mailto:czacind@bk.ru">
-  <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="18">
+  <img align="center" src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="18">
   <p>Mail</p>
 </a>
 
