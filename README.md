@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[Gmail<img src="https://github.com/dwfwby/dwfwby/blob/main/gmail-icon-free-png.webp" width="48">](mailto:czacind@bk.ru)
+[Mail <img src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="48">](mailto:czacind@bk.ru)
