@@ -2,12 +2,20 @@
 <h3>Daniil Dwfwby</h3>
 I was born in 2003. I've been sitting at the computer since I was 3 years old. Until the age of 16, he was an avid computer game player, then he began to study programming languages.
 
-<h3>Stack</h3>
+<h4>Stack</h4>
 <ul>
   <li>Node.js</li>
-  <li>Next</li>
+  <li>Next.js</li>
   <li>HTML / CSS</li>
   <li>PostgreSQL</li>
+</ul>
+
+<h4>Instrumental</h4>
+<ul>
+  <li>Figma</li>
+  <li>Adobe Photoshop</li>
+  <li>Adobe After Effects</li>
+  <li>Visual Studio Code</li>
 </ul>
 
 ### Contact with me:
