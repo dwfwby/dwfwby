@@ -17,6 +17,7 @@
 |**🎯 Attempts**| **JS 4/5** | **HTML + CSS 4/5** | PHP 1.5/5 | PYTHON 2/5 | **Node.js 4/5** |
 
 
-### ⛬ Contact
+### 📫 Mail
 
-📫 **czacind@bk.ru** or **colagamer88@gmail.com**
+**czacind@bk.ru**
+colagamer88@gmail.com
