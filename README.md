@@ -2,7 +2,7 @@
 <h3>Daniil Dwfwby</h3>
 I was born in 2003. I've been sitting at the computer since I was 3 years old. Until the age of 16, he was an avid computer game player, then he began to study programming languages.
 
-<h4>Stack</h4>
+<h3>Stack</h3>
 <ul>
   <li>Node.js</li>
   <li>Next</li>
