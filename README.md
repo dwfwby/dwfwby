@@ -1,5 +1,5 @@
-# Web-developer
-## Daniil Dwfwby
+# Resume
+## About
 ```txt
 👶 Born in 2003.
 💻 Been sitting at the computer since I was 3 years old.
