@@ -1,4 +1,4 @@
-<h1 align="center">Web-developer</h1>
+<h3>Daniil Dwfwby</h3><h1 align="center">Web-developer</h1>
 
 ### Contact with me:
 [<img  src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="40">](mailto:czacind@bk.ru)
