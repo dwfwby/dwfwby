@@ -1,10 +1,5 @@
 # Web-developer
 ## Daniil Dwfwby
-```txt
-👶 Born in 2003.
-💻 Been sitting at the computer since I was 3 years old.
-🎮 Until the age of 16, he was an avid computer game player, 📕 then he began to study programming languages.
-```
 
 ### 🧠 Experience
 *1 year freelance on PHP + JS + HTML / CSS + CMS WP*
