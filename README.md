@@ -1,9 +1,9 @@
 <h1 align="center" >Web-developer</h1>
 <h3 style="margin-bottom: 0px">Daniil Dwfwby</h3>
 <ul>
-  <li>👶 Born in 2003.</li>
-  <li>💻 Been sitting at the computer since I was 3 years old.</li>
-  <li>🎮 Until the age of 16, he was an avid computer game player, 📕 then he began to study programming languages.</li>
+  <li>👶 Born in 2003</li>
+  <li>💻 Been sitting at the computer since I was 3 years old</li>
+  <li>🎮 Until the age of 16, he was an avid computer game player, 📕 then he began to study programming languages</li>
 </ul>
 
 <h4>🛠️ Stack</h4>
