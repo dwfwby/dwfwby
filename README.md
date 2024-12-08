@@ -20,4 +20,4 @@
 ### 📫 Mail
 
 <p><b>czacind@bk.ru</b></p>
-<p>colagamer88@gmail.com</p>
+colagamer88@gmail.com
