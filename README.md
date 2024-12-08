@@ -19,5 +19,5 @@
 
 ### 📫 Mail
 
-**czacind@bk.ru**
-colagamer88@gmail.com
+<p><b>czacind@bk.ru</b></p>
+<p>colagamer88@gmail.com</p>
