@@ -8,11 +8,15 @@
 
 <h4>🛠️ Stack</h4>
 <ul>
-  <li>Node.js</li>
-  <li>Next.js</li>
-  <li>HTML / CSS</li>
-  <li>PostgreSQL</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/node-js-icon-1817x2048-g8tzf91e.png" width="18"> Node.js</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/nextjs-icon-2048x2048-x6n5t31i.png" width="18"> Next.js</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/1175208.webp" width="18"> HTML / <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-programming-langugae-language-pack-logos-icons-1175237.webp" width="18"> CSS</li>
+  <li><img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Postgresql_elephant.svg.png" width="18"> PostgreSQL</li>
 </ul>
+
+
+
+
 
 <h4>🧰 Instrumental</h4>
 <ul>
@@ -20,7 +24,12 @@
   <li>Adobe Photoshop</li>
   <li>Adobe After Effects</li>
   <li>Visual Studio Code</li>
+  <li>Google Sheets</li>
 </ul>
 
-### Contact with me:
-[<img  src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="30">](mailto:czacind@bk.ru)        [<img src="https://github.com/dwfwby/dwfwby/blob/main/Telegram_2019_Logo.svg.png" width="30">](https://t.me/dwfwby)
+### My links:
+- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="18"> Mail: [czacind@bk.ru](mailto:czacind@bk.ru)
+- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Telegram_2019_Logo.svg.png" width="18"> Telegram: [@dwfwby](https://t.me/dwfwby)
+- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.webp" width="18"> Youtube: [@dwfwby](https://www.youtube.com/@dwfwby)
+- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/logo-instagram-icons-instgagram_1367689-33.avif" width="18"> Instagram: [@dwfwby](https://instagram.com/dwfwby)
+
