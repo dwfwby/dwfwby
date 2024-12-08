@@ -17,9 +17,6 @@
 |**🎯 Attempts**| **JS 4/5** | **HTML + CSS 4/5** | PHP 1.5/5 | PYTHON 2/5 | **Node.js 4/5** |
 
 
-### ⛬ Links
+### ⛬ Contact
 
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/mail_ru_logo_icon_147267.webp" width="18"> Mail: [czacind@bk.ru](mailto:czacind@bk.ru)
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/Telegram_2019_Logo.svg.png" width="18"> Telegram: [@dwfwby](https://t.me/dwfwby)
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.webp" width="18"> Youtube: [@dwfwby](https://www.youtube.com/@dwfwby)
-- <img valign="middle" src="https://github.com/dwfwby/dwfwby/blob/main/logo-instagram-icons-instgagram_1367689-33.avif" width="18"> Instagram: [@dwfwby](https://instagram.com/dwfwby)
+📫 **czacind@bk.ru** or **colagamer88@gmail.com**
